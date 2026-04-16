@@ -1,4 +1,4 @@
-# Student Grade Management using Python
+# Student Grade and Hobbies Management using Python
 
 ## Project Description
 
